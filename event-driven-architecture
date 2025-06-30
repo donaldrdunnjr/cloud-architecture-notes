@@ -1,1 +1,7 @@
+# Event-Driven Design
+
+Benefits:
+- Decoupling of services
+- Real-time data processing
+- Enables microservice autonomy
 
